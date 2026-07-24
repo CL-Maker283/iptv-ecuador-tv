@@ -21,11 +21,11 @@ Se ingresa E! Entertainment en los apartados de international-ecuador.m3u y stre
     <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
   </thead>
   <tbody>
-    <tr><td>M3U Guayaqui</td><td nowrap><code>https://iptv-ecuador/streamscity/guayaqui.m3u</code></td></tr>
-    <tr><td>M3U Quito</td><td nowrap><code>https://iptv-ecuador/quito.m3u</code></td></tr>
-    <tr><td>M3U internacionales</td><td nowrap><code>https://iptv-ecuador/international-ecuador.m3u</code></td></tr>
-    <tr><td>M3U TVabierta</td><td nowrap><code>https://iptv-ecuador/streamings-ecuador.m3u</code></td></tr>
-    <tr><td>M3U Todos</td><td nowrap><code>https://iptv-ecuador/streamings-ecuador-all.m3u</code></td></tr>
-    <tr><td>M3U TDT</td><td nowrap><code>https://iptv-ecuador/tdt-ecuador.m3u</code></td></tr>
+    <tr><td>M3U Guayaqui</td><td nowrap><code>https://iptv-ecuador-tv/streamscity/guayaqui.m3u</code></td></tr>
+    <tr><td>M3U Quito</td><td nowrap><code>https://iptv-ecuador-tv/quito.m3u</code></td></tr>
+    <tr><td>M3U internacionales</td><td nowrap><code>https://iptv-ecuador-tv/international-ecuador.m3u</code></td></tr>
+    <tr><td>M3U TVabierta</td><td nowrap><code>https://iptv-ecuador-tv/streamings-ecuador.m3u</code></td></tr>
+    <tr><td>M3U Todos</td><td nowrap><code>https://iptv-ecuador-tv/streamings-ecuador-all.m3u</code></td></tr>
+    <tr><td>M3U TDT</td><td nowrap><code>https://iptv-ecuador-tv/tdt-ecuador.m3u</code></td></tr>
   </tbody>
 </table>
