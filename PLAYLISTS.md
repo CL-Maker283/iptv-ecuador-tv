@@ -1,7 +1,7 @@
 # listas IPTV Para ecuador
 
 ```
-https://iptv-ecuador/index.m3u
+https://iptv-ecuador-tv/index.m3u
 ```
 
 - Guayaqui <code>https://iptv-ecuador-tv/guayaqui.m3u</code>
