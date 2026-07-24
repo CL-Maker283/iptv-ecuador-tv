@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas
+http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel
+http://138.186.23.7:8082/STARCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX
+http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal
+http://138.186.23.7:8082/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic
+http://45.162.193.35/NATGEO/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa
+http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@SD",TNT Novelas
+http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime
+http://138.186.23.7:8082/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD",DreamWorks Channel
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec@SD",Gamavisión
+https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Telemar.ec@SD",Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television
+http://45.171.108.253:8888/TC/index.m3u8
+#EXTINF:-1 tvg-id="OromarTV.ec@SD",Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="OromarTVPlus.ec@SD",Oromar TV+
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec@SD",Ecuador TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC
+http://177.234.249.178:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@SD",AMC Series
+http://177.245.131.133:8080/AMCSERIES/index.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@South",E! Entertainment
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones HD
+http://177.234.249.178:8888/PASIONES/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional",A&E
+http://138.186.23.7:8082/AE/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network
+http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional",Film & Arts
+http://15.204.246.24:8080/FilmArtsHD/index.m3u8
+#EXTINF:-1 tvg-id="TvOro.ec@SD",TvOro
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 tvg-id="EcotelTV.ec@SD",Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History
+http://138.121.15.230:9002/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec@SD",RTS HD
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+#EXTINF:-1 tvg-id="RTU.ec@SD",RTU HD
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-id="RTV.ec@SD",RTV Riobamba
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal
+http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD",Hola! TV
+http://177.234.249.178:8888/HOLA-TV/index.m3u8
