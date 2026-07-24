@@ -4,7 +4,7 @@
 https://iptv-ecuador/index.m3u
 ```
 
-- Guayaqui <code>https://iptv-ecuador-tv/streamscity/guayaqui.m3u</code>
+- Guayaqui <code>https://iptv-ecuador-tv/guayaqui.m3u</code>
 - Quito <code>https://iptv-ecuador-tv/quito.m3u</code>
 - international-ecuador <code>https://iptv-ecuador-tv/international-ecuador.m3u</code>
 - streamings-ecuador <code>https://iptv-ecuador-tv/streamings-ecuador.m3u</code>
